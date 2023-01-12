@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-HJ4Cv1suXS)
 - Live Site URL: [Github Pages](https://kyr27.github.io/qr-code-component-main/)
 
 ## My process
@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - Flexbox
-- CSS Reset
+- [CSS Reset](https://piccalil.li/blog/a-modern-css-reset/)
 - CSS custom properties
 - Mobile-first workflow
 - [Google Fonts](https://fonts.google.com/specimen/Outfit)

@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kyr27.github.io/qr-code-component-main/]
 
 ## My process
 
@@ -46,7 +46,7 @@ I'd also like to point out that figuring out how to center the div took way long
 <div class="card-container">
   <div class="card">
     <div class="card-image">
-      <img src="../../images/image-qr-code.png" alt="QR Code Image" />
+      <img src="images/image-qr-code.png" alt="QR Code Image" />
     </div>
     <div class="card-header">
       Improve your front-end skills by building projects
@@ -114,5 +114,4 @@ For the designs and guidelines, an amazing resource that lets you focus on the d
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [Kyr27](https://www.frontendmentor.io/profile/Kyr27)

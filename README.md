@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://kyr27.github.io/qr-code-component-main/]
+- Live Site URL: [Github Pages](https://kyr27.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Reset
 - CSS custom properties
 - Mobile-first workflow
-- https://fonts.google.com/specimen/Outfit
+- [Google Fonts](https://fonts.google.com/specimen/Outfit)
 
 ### What I learned
 
@@ -93,24 +93,24 @@ I'd like to learn more about CSS Grid, Flexbox, transitions, aria, DOM Manipulat
 
 ### Useful resources
 
-Kevin Powell(https://www.youtube.com/@KevinPowell)
+[Kevin Powell](https://www.youtube.com/@KevinPowell)
 for his excellent YouTube tutorials, i can not describe how much he has helped me with learning web development.
 
-Stephanie Eckles(moderncss.dev)
+[Modern CSS](moderncss.dev)
 Has a lot of useful resources there, i've learned how to always position the footer to the bottom of the screen thanks to her.
 
-Solo Learn(sololearn.com)
+[Solo Learn](sololearn.com)
 Helped me get started with web development. At this point in time i've yet to finish their basic course on web development.
 
-Piccalil(https://piccalil.li)
+[Piccalil](https://piccalil.li)
 For the amazing CSS Reset that i've used in this project.
 The site has a ton more useful resources that i've yet to learn.
 
-Free Code Camp(https://www.freecodecamp.org)
+[Free Code Camp](https://www.freecodecamp.org)
 Started a course there on Responsive Web Development recently and learned a few things, i will be visiting this site quite a bit going forward, as it has everything i want to learn.
 
-Frontend Mentor(https://www.frontendmentor.io)
-For the designs and guidelines, an amazing resource that lets you focus on the development aspect, instead of trying to come up with your own designs.
+[Frontend Mentor](https://www.frontendmentor.io)
+For the designs and guidelines, an amazing resource that lets you focus on the development aspect, instead of trying to both learn designing and web development at the same time.
 
 ## Author
 
